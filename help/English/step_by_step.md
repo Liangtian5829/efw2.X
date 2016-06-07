@@ -1,9 +1,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="../日本語/step_by_step.md">日本語</a>
 &nbsp;<a href="../中文/step_by_step.md">中文</a>
 &nbsp;<a href="../English/step_by_step.md">English</a>
-<H1>Step By Step 环境搭建</H1>
+<H1>Step By Step Construction</H1>
 
-<h2>前提条件</h2>
+<h2>The Prerequisites</h2>
 <table>
 <tr>
 	<th>Items</th><th>Directions</th><th>Attention</th>
@@ -15,16 +15,16 @@
 	<td>application server</td><td>Recommend to use Tomcat 1.7 or Tomcat 1.8<br>The java application server you use must support Servlet 3.0 .<br>http://tomcat.apache.org/whichversion.html</td><td>You have to adjust settings in web.xml if your application server doesn't support Servlet 3.0.</td>
 </tr>
 <tr>
-	<td>浏览器</td><td>IE8以上，FireFox、Chrome等</td><td>可以使用jQuery1.12的浏览器都可以。<br>cors功能有特别要求。</td>
+	<td>Browser</td><td>IE8+,FireFox,Chrome and so on.</td><td>可以使用jQuery1.12的浏览器都可以。<br>cors功能有特别要求。</td>
 </tr>
 </table>
 <h2>例子应用程序的环境搭建</h2>
 <table>
 <tr>
-	<th>步骤</th><th>说明</th><th>注意事项</th>
+	<th>Steps</th><th>Directions</th><th>Attention</th>
 </tr>
 <tr>
-	<td>JDK和Tomcat</td><td>参照前提条件。</td><td>参照前提条件。</td>
+	<td>JDK & Tomcat</td><td>Refer to the prerequisites please.</td><td>Refer to the prerequisites please.</td>
 </tr>
 <tr>
 	<td>PostgreSQL</td><td>下载安装9.3以后版本。新建efwSample数据库。<br>https://www.postgresql.org/download/</td><td>因为例子DB是9.3版。</td>

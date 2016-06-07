@@ -6,7 +6,7 @@
 <h2>前提条件</h2>
 <table>
 <tr>
-	<th>项目</th><th>说明</th><th>注意事项</th>
+	<th>Items</th><th>Directions</th><th>Attention</th>
 </tr>
 <tr>
 	<td>JDK</td><td>java JDK 1.7 or java JDK 1.8</td><td>Java JDK和Open JDK是有区别的。<br>使用Open JDK 1.7，efw会发生错误。<br>没有试验过Open JDK 1.8。</td>

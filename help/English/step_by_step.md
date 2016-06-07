@@ -1,7 +1,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="../日本語/step_by_step.md">日本語</a>
 &nbsp;<a href="../中文/step_by_step.md">中文</a>
 &nbsp;<a href="../English/step_by_step.md">English</a>
-<H1>Step By Step 环境搭建</H1>
+<H1>Step By Step Running Environment Building</H1>
 
 <h2>The Prerequisites</h2>
 <table>
@@ -18,7 +18,7 @@
 	<td>Browser</td><td>IE8+,FireFox,Chrome and so on.</td><td>可以使用jQuery1.12的浏览器都可以。<br>cors功能有特别要求。</td>
 </tr>
 </table>
-<h2>Building Running Environment For Sample App</h2>
+<h2>Build Running Environment For Sample App</h2>
 <table>
 <tr>
 	<th>Steps</th><th>Directions</th><th>Attention</th>

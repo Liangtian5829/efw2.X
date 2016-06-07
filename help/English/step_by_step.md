@@ -36,10 +36,10 @@
 	<td>Sample App</td><td>Download sample App and copy to the path: Tomcat/webapps/efw/.<br>https://github.com/changkejun/efw2.X/<br>efw2.X/release with sample/web application/</td><td></td>
 </tr>
 <tr>
-	<td>DB Link</td><td>Open the file efw/META-INF/context.xml，modify the username,password and the other configuration information of DB connection.</td><td>The JDBC driver program to postgres has been included into the sample App.</td>
+	<td>DB Connection</td><td>Open the file efw/META-INF/context.xml，modify the username,password and the other configuration information of DB connection.</td><td>The JDBC driver program to postgres has been included into the sample App.</td>
 </tr>
 <tr>
-	<td>属性文件设置</td><td>打开efw/WEB-INF/classes/efw.properties，修改属性文件。<br>把efw.isdebug设置为true。<br>把efw.logging.level设置为ALL。</td><td></td>
+	<td>Settings of properties file</td><td>打开efw/WEB-INF/classes/efw.properties，修改属性文件。<br>把efw.isdebug设置为true。<br>把efw.logging.level设置为ALL。</td><td></td>
 </tr>
 <tr>
 	<td>确认动作</td><td>启动Tomcat，用http://localhost:8080/efw/login.jsp 来确认efw例子画面。</td><td></td>

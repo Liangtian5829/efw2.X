@@ -39,7 +39,7 @@
 	<td>DB Connection</td><td>Open the file efw/META-INF/context.xml，modify the username,password and the other configuration information of DB connection.</td><td>The JDBC driver program to postgres has been included into the sample App.</td>
 </tr>
 <tr>
-	<td>Settings of properties file</td><td>打开efw/WEB-INF/classes/efw.properties，修改属性文件。<br>把efw.isdebug设置为true。<br>把efw.logging.level设置为ALL。</td><td></td>
+	<td>Settings In Property File</td><td>Open the file  efw/WEB-INF/classes/efw.properties,modify the seetings.<br>Set efw.isdebug to true.<br>Set efw.logging.level to ALL.</td><td></td>
 </tr>
 <tr>
 	<td>确认动作</td><td>启动Tomcat，用http://localhost:8080/efw/login.jsp 来确认efw例子画面。</td><td></td>

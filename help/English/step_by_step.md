@@ -27,7 +27,7 @@
 	<td>JDK & Tomcat</td><td>Refer to the prerequisites please.</td><td>Refer to the prerequisites please.</td>
 </tr>
 <tr>
-	<td>PostgreSQL</td><td>Download and install PostgreSQL 9.3 or later version.Create efwSample database.<br>https://www.postgresql.org/download/</td><td>Beacuse the version of the sample App is 9.3.</td>
+	<td>PostgreSQL</td><td>Download and install PostgreSQL 9.3 or later version.Create efwSample database.<br>https://www.postgresql.org/download/</td><td>Beacuse the version used by the sample App is 9.3.</td>
 </tr>
 <tr>
 	<td>Sample DB</td><td>Download sample DB.还原到efwSample。<br>https://github.com/changkejun/efw2.X/<br>efw2.X/release with sample/sample database/</td><td></td>

@@ -9,10 +9,10 @@
 	<th>Items</th><th>Directions</th><th>Attention</th>
 </tr>
 <tr>
-	<td>JDK</td><td>java JDK 1.7 or java JDK 1.8</td><td>There're some difference between Java JDK and Open JDK.<br>Some errors will be raised when run efw on Open JDK 1.7.<br>没有试验过Open JDK 1.8。</td>
+	<td>JDK</td><td>java JDK 1.7 or java JDK 1.8</td><td>There're some differences between Java JDK and Open JDK.<br>Some errors will be raised when run efw on Open JDK 1.7.<br>Have'nt tried to run efw on Open JDK 1.8.</td>
 </tr>
 <tr>
-	<td>应用服务器</td><td>推荐使用 Tomcat 1.7 or Tomcat 1.8<br>需要是支持 Servlet 3.0的java应用服务器。<br>http://tomcat.apache.org/whichversion.html</td><td>如果在不支持Servlet 3的应用服务器里设置efw，需要调整web.xml。</td>
+	<td>application server</td><td>Recommend to use Tomcat 1.7 or Tomcat 1.8<br>The java application server you use must support Servlet 3.0 .<br>http://tomcat.apache.org/whichversion.html</td><td>You have to adjust settings in web.xml if your application server doesn't support Servlet 3.0.</td>
 </tr>
 <tr>
 	<td>浏览器</td><td>IE8以上，FireFox、Chrome等</td><td>可以使用jQuery1.12的浏览器都可以。<br>cors功能有特别要求。</td>

@@ -18,7 +18,7 @@
 	<td>Browser</td><td>IE8+,FireFox,Chrome and so on.</td><td>可以使用jQuery1.12的浏览器都可以。<br>cors功能有特别要求。</td>
 </tr>
 </table>
-<h2>例子应用程序的环境搭建</h2>
+<h2>Building Running Environment For Sample App</h2>
 <table>
 <tr>
 	<th>Steps</th><th>Directions</th><th>Attention</th>
@@ -39,7 +39,7 @@
 	<td>DB Connection</td><td>Open the file efw/META-INF/context.xml，modify the username,password and the other configuration information of DB connection.</td><td>The JDBC driver program to postgres has been included into the sample App.</td>
 </tr>
 <tr>
-	<td>Settings In Property File</td><td>Open the file  efw/WEB-INF/classes/efw.properties,modify the seetings.<br>Set efw.isdebug to true.<br>Set efw.logging.level to ALL.</td><td></td>
+	<td>Settings In Property File</td><td>Open the file  efw/WEB-INF/classes/efw.properties,modify the settings.<br>Set efw.isdebug to true.<br>Set efw.logging.level to ALL.</td><td></td>
 </tr>
 <tr>
 	<td>确认动作</td><td>启动Tomcat，用http://localhost:8080/efw/login.jsp 来确认efw例子画面。</td><td></td>

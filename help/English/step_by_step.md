@@ -12,7 +12,7 @@
 	<td>JDK</td><td>java JDK 1.7 or java JDK 1.8</td><td>There're some differences between Java JDK and Open JDK.<br>Some errors will be raised when run efw on Open JDK 1.7.<br>Have'nt tried to run efw on Open JDK 1.8.</td>
 </tr>
 <tr>
-	<td>application server</td><td>Recommend to use Tomcat 1.7 or Tomcat 1.8<br>The java application server you use must support Servlet 3.0 .<br>http://tomcat.apache.org/whichversion.html</td><td>You have to modify the settings in web.xml if your application server doesn't support Servlet 3.0.</td>
+	<td>Application Server</td><td>Recommend to use Tomcat 1.7 or Tomcat 1.8<br>The java application server you use must support Servlet 3.0 .<br>http://tomcat.apache.org/whichversion.html</td><td>You have to modify the settings in web.xml if your application server doesn't support Servlet 3.0.</td>
 </tr>
 <tr>
 	<td>Browser</td><td>IE8+,FireFox,Chrome and so on.</td><td>可以使用jQuery1.12的浏览器都可以。<br>cors功能有特别要求。</td>
